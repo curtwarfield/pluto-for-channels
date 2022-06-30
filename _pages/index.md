@@ -27,7 +27,7 @@ Use these links to keep your Pluto guide data updated:
 1. Paste the `Playlist` link in the **Source** URL field in the `Custom Channels` configuration box.    
 2. Paste the `EPG` link in the **XMLTV Guide Data** field in the `Custom Channels` configuration box.
 
-> **_NOTE:_**  The guide data is refreshed every 3 hours.
+> The guide data is refreshed every 3 hours.
 
 <style>
   .wrapper {
